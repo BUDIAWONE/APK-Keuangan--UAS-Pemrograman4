@@ -2,7 +2,7 @@
 
 #Tampilan Menu Utama
 ![alt text](https://github.com/BUDIAWONE/BUDIAWONE-UAS-Pemrograman2/blob/main/1.png?raw=true)
-
+#
 #Menu Pengeluaran
 ![alt text](https://github.com/BUDIAWONE/BUDIAWONE-UAS-Pemrograman2/blob/main/2.png?raw=true)
 
