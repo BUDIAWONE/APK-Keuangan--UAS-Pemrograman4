@@ -1,5 +1,7 @@
 # BUDIAWONE-UAS-Pemrograman2
 
+https://ejournal.gunadarma.ac.id/index.php/ugjournal/article/download/4943/2292
+
 #Tampilan Menu Utama
 
 ![alt text](https://github.com/BUDIAWONE/BUDIAWONE-UAS-Pemrograman2/blob/main/1.png?raw=true)
