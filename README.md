@@ -1,6 +1,5 @@
 # BUDIAWONE-UAS-Pemrograman2
 
-https://ejournal.gunadarma.ac.id/index.php/ugjournal/article/download/4943/2292
 
 #Tampilan Menu Utama
 
@@ -33,5 +32,9 @@ https://ejournal.gunadarma.ac.id/index.php/ugjournal/article/download/4943/2292
 #Menu Hapus Catatan
 
 ![alt text](https://github.com/BUDIAWONE/BUDIAWONE-UAS-Pemrograman2/blob/main/8.png?raw=true)
+
+Jurnal Nasional (https://ejournal.gunadarma.ac.id/index.php/ugjournal/article/download/4943/2292)
+Jurnal Internasional (http://jurnal.unmuhjember.ac.id/index.php/manage/article/view/7379)
+
 
 
